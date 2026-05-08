@@ -1,4 +1,4 @@
-# Sistema-de-Pr-stamos-de-Equipos
+# Sistema-de-Prestamos-de-Equipos
 En este proyecto desarrollé un sistema de préstamos de equipos en Python con el objetivo de simular la gestión de inventario dentro de una institución. A través de este trabajo pude aplicar de forma práctica los conceptos de listas, tuplas y diccionarios vistos durante el curso, además de mejorar mi lógica de programación y organización del código.
 
 Para comenzar, utilicé un diccionario principal llamado equipos, donde almacené toda la información de los dispositivos registrados en el sistema. Cada equipo contiene su estado de disponibilidad y una lista de préstamos realizados. Gracias a esto pude organizar la información de manera clara y estructurada.
